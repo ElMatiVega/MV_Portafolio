@@ -21,15 +21,15 @@ export const projects = [
     description:
       "Desarrollo de una SPA Responsive Design (Single Page Application) utilizando React para el Front End y Redux como state management. Todos los componentes fueron realizados con CSS sin el uso de librerías externas. La SPA consume datos de una API externa a través de un Back End desarrollado en Node.js utilizando Express, agregando nuevas funcionalidades a la API original. Funcionalidades del proyecto: Formulario controlado para la creación de un nuevo Pokemon, ordenamientos y filtros, paginación.",
     image: "./pokemonApp.png",
-    link: "https://reactbootcamp.com",
+    link: "https://www.linkedin.com/in/mat%C3%ADas-vega-98a527239/",
   },
   {
-    title: "E-commerce Heatly food",
-    subtitle: "Muchas tecnologías",
+    title: "E-commerce Shop Healthy",
+    subtitle: "HTML, Javascripts, React-Redux, Material UI, Nodejs, express, MySQL ",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://www.linkedin.com/in/mat%C3%ADas-vega-98a527239/",
   },
 ];
 
