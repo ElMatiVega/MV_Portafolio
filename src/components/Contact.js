@@ -44,11 +44,14 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a
+              <a className="text-indigo-400 leading-relaxed">
+              mvfullstackdeveloper@email.com
+              </a>
+              {/* <a
              href="mailto:mvfullstackdeveloper@gmail.com"
              target="_blank"
              className="text-indigo-400 leading-relaxed"
-             >mvfullstackdeveloper@email.com</a>
+             >mvfullstackdeveloper@email.com</a> */}
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 Mobile
               </h2>
