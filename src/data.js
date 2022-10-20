@@ -24,7 +24,7 @@ export const projects = [
     link: "https://www.linkedin.com/in/mat%C3%ADas-vega-98a527239/",
   },
   {
-    title: "E-commerce Shop Healthy",
+    title: "E-commerce Healthy Shop",
     subtitle: "HTML, Javascripts, React-Redux, Material UI, Nodejs, express, MySQL ",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
