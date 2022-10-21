@@ -23,14 +23,14 @@ export const projects = [
     image: "./pokemonApp.png",
     link: "https://www.linkedin.com/in/mat%C3%ADas-vega-98a527239/",
   },
-  {
-    title: "E-commerce Healthy Shop",
-    subtitle: "HTML, Javascripts, React-Redux, Material UI, Nodejs, express, MySQL ",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://www.linkedin.com/in/mat%C3%ADas-vega-98a527239/",
-  },
+  // {
+  //   title: "E-commerce Healthy Shop",
+  //   subtitle: "HTML, Javascripts, React-Redux, Material UI, Nodejs, express, MySQL ",
+  //   description:
+  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+  //   image: "./project-4.gif",
+  //   link: "https://www.linkedin.com/in/mat%C3%ADas-vega-98a527239/",
+  // },
 ];
 
 // export const testimonials = [
