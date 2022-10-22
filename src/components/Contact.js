@@ -106,11 +106,14 @@ export default function Contact() {
               className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 h-32 text-base outline-none text-gray-100 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
               onChange={(e) => setMessage(e.target.value)}
             />
-          </div> */}
+          </div> 
           <button
             type="submit"
             className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-            <a
+         
+           Enviar
+          </button>*/}
+          <a
              href="mailto:mvfullstackdeveloper@gmail.com"
              target="_blank"
              ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5">
@@ -118,8 +121,6 @@ export default function Contact() {
              <path d="M19 8.839l-7.77 3.885a2.75 2.75 0 01-2.46 0L1 8.839V14a2 2 0 002 2h14a2 2 0 002-2V8.839z" />
            </svg>
            </a>
-           {/* Enviar */}
-          </button>
         </form>
       </div>
     </section>
