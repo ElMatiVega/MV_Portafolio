@@ -44,16 +44,16 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              {/* <a className="text-indigo-400 leading-relaxed">
+              <a className="text-indigo-400 leading-relaxed">
               mvfullstackdeveloper@email.com
-              </a> */}
-              <a
+              </a>
+              {/* <a
              href="mailto:mvfullstackdeveloper@gmail.com"
              target="_blank"
              className="text-indigo-400 leading-relaxed"
-             >mvfullstackdeveloper@email.com</a>
+             >mvfullstackdeveloper@email.com</a> */}
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
-                Mobile
+               Telefono
               </h2>
               <p className="leading-relaxed"><a href="https://wa.me/543496534323" target="_blank">543496534323</a></p>
             </div>
@@ -65,12 +65,12 @@ export default function Contact() {
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
-            ¿Tienes una inquietud?
+            Puedes escribirme
           </h2>
           <p className="leading-relaxed mb-5">
             No dudes en escribirme, tu consulta no me molesta, me gustaria poder ayudarte y con gusto voy a darte una respuesta.
           </p>
-          {/* <div className="relative mb-4">
+          <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
               Nombre
             </label>
@@ -112,15 +112,15 @@ export default function Contact() {
             className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
          
            Enviar
-          </button>*/}
-          <a
+          </button>
+          {/* <a
              href="mailto:mvfullstackdeveloper@gmail.com"
              target="_blank"
              ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5">
              <path d="M3 4a2 2 0 00-2 2v1.161l8.441 4.221a1.25 1.25 0 001.118 0L19 7.162V6a2 2 0 00-2-2H3z" />
              <path d="M19 8.839l-7.77 3.885a2.75 2.75 0 01-2.46 0L1 8.839V14a2 2 0 002 2h14a2 2 0 002-2V8.839z" />
            </svg>
-           </a>
+           </a> */}
         </form>
       </div>
     </section>
