@@ -58,7 +58,15 @@ export const skills = [
   "Redux",
   "Nodejs",
   "SQL",
-  "Material UI",
-  "Git","Github","NPM","Postgres","MySQL","Sequelize","Postman","Vercel","Netlify","Slack", "Discord",
+  "Git",
+  "Github",
+  "npm",
+  "Postgres",
+  "MySQL",
+  "Sequelize",
+  "Postman",
+  "Netlify",
+  "Slack",
+   "Discord",
   "SCRUM"
 ];
