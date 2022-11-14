@@ -62,11 +62,10 @@ export const skills = [
   "Github",
   "npm",
   "Postgres",
-  "MySQL",
   "Sequelize",
   "Postman",
   "Netlify",
   "Slack",
-   "Discord",
+  "Discord",
   "SCRUM"
 ];
