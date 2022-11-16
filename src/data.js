@@ -3,7 +3,7 @@ export const projects = [
     title: "Lista de tareas diarias",
     subtitle: "HTML, CSS y Javascripts",
     description:
-      "Desarrollo de una APP de lista de tareas con responsive web design y con las funcionales de agregar, tachar, completar y eliminar tareas yla implementación de local Storage que sirve para guardar el registro de los datos",
+      "Desarrollo de una APP de lista de tareas con responsive web design y con las funcionales de agregar, tachar, completar y eliminar tareas yla implementación de local Storage que sirve para guardar el registro de los datos                                                                                                                                                                                                                                                                                       ",
     image: "./lista.jpg",
     link: "https://lista-de-tares.netlify.app",
   },
@@ -11,7 +11,7 @@ export const projects = [
     title: "Memorizar",
     subtitle: "HTML, CSS y Javascripts",
     description:
-      "Es un pequeño juego donde se pone a pruebas la capacidad de memorizar imagenes.",
+      "Es un pequeño juego donde se pone a pruebas la capacidad de memorizar imagenes.                                                                                                                                                                                                                                                                                                                                                                                                                                     ",
     image: "./memoria.jpg",
     link: "https://memorizar.netlify.app",
   },
@@ -27,7 +27,7 @@ export const projects = [
     title: "E-commerce Healthy Shop",
     subtitle: "HTML, Javascripts, React-Redux, Material UI, Nodejs, express, MySQL , Firebase, Cloudinary, Nodemailer, Mercadopago",
     description:
-      "Es un Ecommerce de alimentos saludable con versiones WEB y Mobile. Desarrollo este proyecto junto a mis compañeros de equipo para la evaluación final del bootcamp Henry ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+      "Es un Ecommerce de alimentos saludable con versiones WEB y Mobile. Desarrollo este proyecto junto a mis compañeros de equipo para la evaluación final del bootcamp Henry                                                                                                                                                                                                                                                                                                                                              ",
     image: "./HealthyShop.png",
     link:  "https://henryhealthy.shop/catalogo",
   },
