@@ -21,16 +21,16 @@ export const projects = [
     description:
       "Desarrollo de una SPA Responsive Design (Single Page Application) utilizando React para el Front End y Redux como state management. Todos los componentes fueron realizados con CSS sin el uso de librerías externas. La SPA consume datos de una API externa a través de un Back End desarrollado en Node.js utilizando Express, agregando nuevas funcionalidades a la API original. Funcionalidades del proyecto: Formulario controlado para la creación de un nuevo Pokemon, ordenamientos y filtros, paginación.",
     image: "./pokemonApp.png",
-    link: "http://back.dkndrd.com:3000",
+    link: "https://henryhealthy.shop/pi-pokemon/",
   },
-  // {
-  //   title: "E-commerce Healthy Shop",
-  //   subtitle: "HTML, Javascripts, React-Redux, Material UI, Nodejs, express, MySQL ",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-4.gif",
-  //   link: "https://www.linkedin.com/in/mat%C3%ADas-vega-98a527239/",
-  // },
+  {
+    title: "E-commerce Healthy Shop",
+    subtitle: "HTML, Javascripts, React-Redux, Material UI, Nodejs, express, MySQL , Firebase, Cloudinary, Nodemailer, Mercadopago",
+    description:
+      "Es un Ecommerce de alimentos saludable con versiones WEB y Mobile. Desarrollo este proyecto junto a mis compañeros de equipo para la evaluación final del bootcamp Henry ",
+    image: "./HealthyShop.png",
+    link:  "https://henryhealthy.shop/catalogo",
+  },
 ];
 
 // export const testimonials = [
