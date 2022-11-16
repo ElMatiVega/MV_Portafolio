@@ -27,7 +27,7 @@ export const projects = [
     title: "E-commerce Healthy Shop",
     subtitle: "HTML, Javascripts, React-Redux, Material UI, Nodejs, express, MySQL , Firebase, Cloudinary, Nodemailer, Mercadopago",
     description:
-      "Es un Ecommerce de alimentos saludable con versiones WEB y Mobile. Desarrollo este proyecto junto a mis compañeros de equipo para la evaluación final del bootcamp Henry ",
+      "Es un Ecommerce de alimentos saludable con versiones WEB y Mobile. Desarrollo este proyecto junto a mis compañeros de equipo para la evaluación final del bootcamp Henry ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
     image: "./HealthyShop.png",
     link:  "https://henryhealthy.shop/catalogo",
   },
