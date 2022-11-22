@@ -6,7 +6,7 @@ export default function Navbar() {
     <header className="bg-gray-800 md:sticky top-0 z-10">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <a className="title-font font-medium text-white mb-4 md:mb-0">
-          <a href="https://www.linkedin.com/in/mat%C3%ADas-vega-98a527239/" target="_blank" className="ml-3 text-xl">
+          <a href="https://www.linkedin.com/in/mat%C3%ADas-vega-dev/" target="_blank" className="ml-3 text-xl">
             Matías Vega
           </a>
         </a>
