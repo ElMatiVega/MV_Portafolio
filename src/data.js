@@ -21,7 +21,7 @@ export const projects = [
     description:
       "Desarrollo de una SPA Responsive Design (Single Page Application) utilizando React para el Front End y Redux como state management. Todos los componentes fueron realizados con CSS sin el uso de librerías externas. La SPA consume datos de una API externa a través de un Back End desarrollado en Node.js utilizando Express, agregando nuevas funcionalidades a la API original. Funcionalidades del proyecto: Formulario controlado para la creación de un nuevo Pokemon, ordenamientos y filtros, paginación.",
     image: "./pokemonApp.png",
-    link: "https://henryhealthy.shop/pi-pokemon/",
+    // link: "https://henryhealthy.shop/pi-pokemon/",
   },
   {
     title: "E-commerce Healthy Shop",
